@@ -21,8 +21,8 @@ Alguns códigos precisam de correções e ajustes, mas para uma aplicação inic
 ## 💭 Reflexão (Opcional)
 Foi um projeto interessante e útil. O melhor foi solicitar explicações criativas para o Gemini, isso foi interessante para deixar o ebook mais gostoso de ler e claro para usuários que não conhecem as tecnologias utilizadas no projeto.
 
-Você pode [baixar o ebook aqui](./arquivos/criando-fastapi-todo.pdf).
-O arquivo de texto você [pode baixar aqui](./arquivos/criando-fastapi-todo.odt)
+Você pode [baixar o ebook aqui](./criando-fastapi-todo.pdf).
+O arquivo de texto você [pode baixar aqui](./criando-fastapi-todo.odt)
 
 
 Abaixo, o Readme original do projeto...
