@@ -1,5 +1,32 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
+# Ebook - Criando um TO-DO App com Python, MongoDB e a FastAPI
+
+## 📒 Descrição
+Um projeto feito com O Google Gemini e o Leonard AI para criar um Ebook ensinando a criar uma API de Tarefas com o Python.
+
+## 🤖 Tecnologias Utilizadas
+Google Gemini 1.5 Flash para a criação de textos e códigos
+Leonard.ai para a criação de imagens
+
+## 🧐 Processo de Criação
+O Conteúdo foi criado através de um prompt inicial explicando ao Google Gemini que seria feito um livro.
+Depois cuidadosamente foi feito um prompt para cada capítulo do livro, tanto para os tópicos como códigos gerados. Inclusive os prompts utilizados no Leonard AI foram feitos pelo Gemini.
+Além disso, foi utilizado o Google Docs para escrever o texto, o VS Code para testar o código e o Postman para testar as requisições.
+
+## 🚀 Resultados
+O projeto foi bastante demorado e com diversas correções para cada prompt, mas foi possível criar um ebook bem interessante e bem explicado para a execução da aplicação.
+Alguns códigos precisam de correções e ajustes, mas para uma aplicação inicial, o Gemini se saiu muito bem na criação.
+
+## 💭 Reflexão (Opcional)
+Foi um projeto interessante e útil. O melhor foi solicitar explicações criativas para o Gemini, isso foi interessante para deixar o ebook mais gostoso de ler e claro para usuários que não conhecem as tecnologias utilizadas no projeto.
+
+Você pode [baixar o ebook aqui](./arquivos/criando-fastapi-todo.pdf).
+O arquivo de texto você [pode baixar aqui](./arquivos/criando-fastapi-todo.odt)
+
+
+Abaixo, o Readme original do projeto...
+
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
